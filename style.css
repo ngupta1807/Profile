@@ -1015,7 +1015,7 @@ body{
     font-size:18px;
     line-height:1.42857143;
     color:#333;
-    background-color:#edf1ff
+    background-color:#fffbed
 }
 input,button,select,textarea{
     font-family:inherit;
@@ -4864,9 +4864,9 @@ a:hover,a:active{
 #menu{
     background-color:#307fad;
     background-image:-webkit-radial-gradient(circle, #368ec1, #2b7199);
-    background-image:radial-gradient(circle, #368ec1, #3c2b99);
+    background-image:radial-gradient(circle, #368ec1, #2b7199);
     background-repeat:no-repeat;
-    border-top:0px solid #ef4e57
+    border-top:5px solid #ef4e57
 }
 #menu-content h1 a{
     color:#81bbdc
@@ -4904,7 +4904,7 @@ a:hover,a:active{
     color:#fff
 }
 #content{
-    border-top:0px solid #b0c26e;
+    border-top:5px solid #b0c26e;
     overflow-y:auto
 }
 .vertical-align{
@@ -4971,4 +4971,3 @@ pre{
 pre{
     background-color:white
 }
-
