@@ -4866,7 +4866,7 @@ a:hover,a:active{
     background-image:-webkit-radial-gradient(circle, #368ec1, #2b7199);
     background-image:radial-gradient(circle, #368ec1, #2b7199);
     background-repeat:no-repeat;
-    border-top:5px solid #ef4e57
+    border-top:0px solid #ef4e57
 }
 #menu-content h1 a{
     color:#81bbdc
@@ -4904,7 +4904,7 @@ a:hover,a:active{
     color:#fff
 }
 #content{
-    border-top:5px solid #b0c26e;
+    border-top:0px solid #b0c26e;
     overflow-y:auto
 }
 .vertical-align{
